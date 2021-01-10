@@ -2,7 +2,7 @@ import java.io.*;
 import com.linuxense.javadbf.*;
 
 
-public class bdc {
+public class Main {
 
     public static void main(String args[]) {
 
